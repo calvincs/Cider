@@ -69,7 +69,7 @@ HTTP POST JSON http://< host >:< port >/cache
 ## Other notes
 See additional comments in the code base for tweaking the application
 
-Including on how to increase stability by enabling the WAL and throughput 2X increase in throughput with Rapidiod vs SparkJava
+Including on how to increase stability by enabling the WAL and throughput 2X increase in throughput with Rapidoid vs SparkJava
 
 
 ## License
